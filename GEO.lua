@@ -117,7 +117,7 @@ end
 			ear1="Loquacious earring",
 			legs="Geomancy Pants +2"}
 
-	-- Elemental Staves --
+	-- Staves --
 	sets.Precast.Lightning = {main='Daybreak'}
 	sets.Precast.Water = {main='Daybreak'}
 	sets.Precast.Fire = {main='Daybreak'}
@@ -273,7 +273,7 @@ end
 			body="Ea houppe. +1",
 			hands="Amalric gages +1",
 			legs="Ea slops +1",
-			feet="Jhakri pigaches +1",
+			feet="Bagua Sandals +3",
 			neck="Eddy necklace",
 			ear1="Friomisi earring",
 			ear2="Malignance earring",
@@ -308,7 +308,7 @@ end
 			body="Ea houppe. +1",
 			hands="Amalric gages +1",
 			legs="Ea slops +1",
-			feet="Jhakri pigaches +1",
+			feet="Bagua Sandals +3",
 			neck="Eddy necklace",
 			ear1="Friomisi earring",
 			ear2="Malignance earring",
